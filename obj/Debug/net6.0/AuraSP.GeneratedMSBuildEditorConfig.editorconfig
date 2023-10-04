@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\swan5\source\repos\AuraSP
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/swan5/source/repos/AuraSP/Views/Beer/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxjcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/swan5/source/repos/AuraSP/Views/Beer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/swan5/source/repos/AuraSP/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/swan5/source/repos/AuraSP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
